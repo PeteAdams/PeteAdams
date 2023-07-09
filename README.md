@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hello! I'm Peter, a game programmer with a lifelong passion for creating immersive gaming experiences. I specialize in C# and C++, as well as Unreal Engine, and I'm always eager to learn more and take on new challenges.<br><br>Right now, I'm working on redefining the MMO genre entirely. I'm really excited about this project because I get to fulfill my passion as a potential future career. I'm always looking for feedback and collaborators, so feel free to check it out and let me know what you think.<br><br>I'm always interested in collaborating on new game projects, especially those that emphasize story and narrative. If you have a project you're working on and you think I might be a good fit, please reach out and let's chat!<br><br>While I'm confident in my skills as a game programmer, there are always areas where I could use some help. Right now, I could use some assistance with assets and animations.<br><br>I believe in continuous learning and improvement. Right now, I'm focused on building fundamental game systems to build on top of. I'm also interested in exploring new engines, so if you have any resources or recommendations, please let me know.<br><br><br>If you have any questions about Unreal Engine, my ongoing project, or anything else game-related, feel free to ask! I'm always happy to chat about game development and share my knowledge and experience.<br><br>Fun Facts<br>I am a black belt in Tae Kwon Do<br>I currently work in IT<br>I used to be a semi-pro esports player (counterstrike)
+Greetings,
+
+I am Peter, a seasoned game programmer with a lifelong dedication to crafting immersive gaming experiences. My expertise lies in programming languages such as C# and C++, along with a deep understanding of Unreal Engine. I possess an unwavering enthusiasm for learning and embracing new challenges within the field.
+
+Presently, I am engaged in a groundbreaking endeavor aimed at redefining the entire massively multiplayer online (MMO) genre. The prospect of pursuing this project as a potential future career fills me with tremendous excitement. I wholeheartedly welcome feedback and seek collaborative opportunities, encouraging you to explore the project and share your thoughts.
+
+I am particularly enthusiastic about collaborating on new game projects that place a strong emphasis on compelling storytelling and narrative. If you have a project underway and believe that my skills align well with your vision, I invite you to reach out, and we can discuss further.
+
+While I possess confidence in my abilities as a game programmer, I recognize the value of seeking assistance in areas where I may require support. Currently, I am in need of assistance with assets and animations.
+
+I firmly believe in the ethos of continuous learning and improvement. At present, my primary focus revolves around constructing foundational game systems to serve as a robust framework for future development. Moreover, I am keen on exploring alternative game engines. If you possess any valuable resources or recommendations in this regard, I would greatly appreciate your input.
+
+Should you have any inquiries concerning Unreal Engine, my ongoing project, or any other topic pertaining to game development, I am delighted to engage in conversation. Feel free to ask questions, as I am always enthusiastic about discussing game development and sharing my knowledge and experiences.
+
+Additional Information:
+
+I hold a black belt in Tae Kwon Do.
+Currently, I am employed in the IT sector.
+In the past, I enjoyed a semi-professional career as an esports player in Counter-Strike.
+Thank you, and I look forward to connecting with you soon.
 
 
 # 💻 Tech Stack:
