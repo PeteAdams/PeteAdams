@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings,
+Hello!
 
 I am Peter, a seasoned game programmer with a lifelong dedication to crafting immersive gaming experiences. My expertise lies in programming languages such as C# and C++, along with a deep understanding of Unreal Engine. I possess an unwavering enthusiasm for learning and embracing new challenges within the field.
 
